@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first GitHub repository ...
 
-Manually changed
+Manually changed. One more edit on GitHub.
